@@ -1,2 +1,2 @@
 # leetcode
-Resolved exercises from leetcode with explanations
+Resolved exercises from leetcode 
