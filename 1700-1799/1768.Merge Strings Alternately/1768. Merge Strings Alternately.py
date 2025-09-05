@@ -1,9 +1,3 @@
-"""
-CODE RESULTS:
-    Runtime: 7MS (Beats 99.35%)
-    Memory Usage: 12.36MB (Beats 84.01%)
-"""
-
 class Solution(object):
     def mergeAlternately(self, word1, word2):
         """
