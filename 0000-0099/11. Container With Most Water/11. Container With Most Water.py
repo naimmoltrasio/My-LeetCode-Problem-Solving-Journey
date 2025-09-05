@@ -4,6 +4,7 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
+        
         n = len(height) - 1
         cpt = 0
         x = 0
@@ -20,5 +21,4 @@ class Solution(object):
                     i = i + 1
                 else:
                     n = n - 1
-
         return cpt  
