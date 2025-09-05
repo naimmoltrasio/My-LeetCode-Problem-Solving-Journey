@@ -8,7 +8,7 @@ Return  _the maximum amount of water a container can store_.
 
 Example 1:
 
-![image](My-LeetCode-Problem-Solving-Journey/0000-0099/11.Container-With-Most-Water/question_11.jpg)
+![image](question_11.jpg)
 
 >**Input:** height = [1,8,6,2,5,4,8,3,7]
 **Output:** 49
