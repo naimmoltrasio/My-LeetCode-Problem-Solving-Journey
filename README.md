@@ -14,6 +14,9 @@ This repository contains my solutions to LeetCode problems!
 I aim to implement them in different programming languages and document my thought process for each solution.
 
 ## Solved Problems
+![LeetCode Stats](https://leetcard.jacoblin.cool/moltra?theme=dark&font=Karma&ext=heatmap)
+
+
 🌿 Easy: 69/899
 🌱 Medium: 22/1918
 🌳 Hard: 1/869
