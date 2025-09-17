@@ -13,3 +13,10 @@ Naim Moltrasio [E-mail](mailto:naim.moltrasio@gmail.com "E-mail")
 This repository contains my solutions to LeetCode problems! 
 I aim to implement them in different programming languages and document my thought process for each solution.
 
+## Solved Problems
+🌿 Easy: 69/899
+🌱 Medium: 22/1918
+🌳 Hard: 1/869
+
+🌎 Total: 92/3686
+
